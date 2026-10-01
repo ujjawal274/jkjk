@@ -176,3 +176,4 @@ Filters individual rows.
 
 `sql
 WHERE salary > 50000
+----
